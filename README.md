@@ -4,4 +4,4 @@
 
 ## Description
 
-It is a simpple game in terminal made for fun
+**It is a simpple game in terminal made for fun**
